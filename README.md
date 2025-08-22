@@ -1,6 +1,6 @@
 # Cloud Data Pipeline for Product Analytics
 
-This repository shows a lightweight example of an AWS-based pipeline for processing assay performance data.  
+This AWS pipeline enables automated ingestion and analysis of assay data for product performance monitoring
 
 ☁️ **Use Case:** Enables scalable insights for portfolio performance, adoption trends, and customer usage metrics.  
 
