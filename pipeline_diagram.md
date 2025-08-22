@@ -1,4 +1,4 @@
-flowchart LR
+flowchart (Left to Right)
     A[Lab Instrument Data] --> B[S3 Data Lake]
     B --> C[AWS Lambda ETL]
     C --> D[DynamoDB (Processed Data)]
